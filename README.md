@@ -34,9 +34,7 @@
 * ```flask run```
 
 
-> ## :heavy_check_mark:Heroku App
-<p align="center">
-  <a href="https://graphical-password-cs-intern.herokuapp.com/">Go To Website </a>
+
  
 </p>
 
