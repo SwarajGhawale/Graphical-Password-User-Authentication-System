@@ -53,9 +53,10 @@
 <p align="center">
   <img widht ="300" height="300" src="https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/d2363186-66b8-4710-bc37-b4d6d60986bf">
   <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972381-2d58a400-e536-11ea-973a-3dd2a506c4cc.png">
-   <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972403-55e09e00-e536-11ea-8e5b-ade97e96fb6f.png">
-  <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972338-dfdc3700-e535-11ea-9c30-6a9cdbf31516.png">
-   <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972452-c2f43380-e536-11ea-9add-9ad31b9d9ac4.png">
+   <img widht ="300" height="300" src="https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/eef34be0-147d-4e95-b57f-dd88ea284401">
+  
+  <img widht ="300" height="300" src="https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/6c92ce23-46cb-4ab9-9fa7-f900045c56a4">
+   <img widht ="300" height="300" src="https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/22229881-488b-4367-8428-73dbe424413c">
 </p>
-![Screenshot 2023-11-23 213801](https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/fedc2dfe-faa1-496d-9c90-c8fdffa03c11)
+
 
