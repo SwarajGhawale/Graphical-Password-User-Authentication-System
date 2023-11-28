@@ -4,14 +4,12 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=bugs)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
 # Graphical-Password-to-Avoid-Shoulder-Surfing
-* We the team of three developed two method Graphical Password Authentication System || Techinoary Cyber Security Internship ||
+* I have developed two methods for a Graphical Password Authentication System. || Master Thesis Project  ||
 * Signup &amp; Login Authentication Using Flask
-* Password Hashing - SHA256
+* Password Hashing - SHA256 & bcrypt method
 
 # Team
-- Shanmuk Michael
-- Akhilesh
-- Jahnavi
+- Swaraj Ghawale
 
 # :writing_hand: Requirements
 - flask
@@ -26,7 +24,7 @@
 > ## :heavy_check_mark:Windows
 *  ```pip install -r requirements.txt``` to install dependencies
 * ```python3 -m venv <env name>``` to create virtual environment
-* ```<env name>\scripts\activate``` 
+* ```<env name>\scripts\activate``` OR ```.\.\<env name>\Scripts\activate```
 * ```SET FLASK_APP=project``` here app is poject folder
 * ```SET FLASK_DEBUG=1```
 * ```flask run```
@@ -34,7 +32,7 @@
 > ## :heavy_check_mark:Linux
 * ```pip install -r requirements.txt``` to install dependencies
 * ```python3 -m venv <env name>``` to create virtual environment
-* ```source <env name>\scripts\activate``` 
+* ```source <env name>\scripts\activate``` OR ```source <env name>/bin/activate ```
 * ```export FLASK_APP=project``` here app is poject folder
 * ```export FLASK_DEBUG=1```
 * ```flask run```
