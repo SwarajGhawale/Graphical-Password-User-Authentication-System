@@ -1,9 +1,5 @@
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=security_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=bugs)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
-# Graphical-Password-to-Avoid-Shoulder-Surfing
+
+# Graphical-Password-User-Authentication-System
 * I have developed two methods for a Graphical Password Authentication System. || Master Thesis Project  ||
 * Signup &amp; Login Authentication Using Flask
 * Password Hashing - SHA256 & bcrypt method
