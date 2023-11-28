@@ -51,7 +51,8 @@
 
 
 <p align="center">
-  <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/91034659-fe6c2c00-e622-11ea-905c-40581960f716.png">
+  <img widht ="300" height="300" src="![Screenshot 2023-11-23 213801](https://github.com/SwarajGhawale/Graphical-Password-User-Authentication-System/assets/64300829/d2363186-66b8-4710-bc37-b4d6d60986bf)
+">
   <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972381-2d58a400-e536-11ea-973a-3dd2a506c4cc.png">
    <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972403-55e09e00-e536-11ea-8e5b-ade97e96fb6f.png">
   <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/90972338-dfdc3700-e535-11ea-9c30-6a9cdbf31516.png">
